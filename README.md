@@ -13,6 +13,7 @@ ESP32 Wroom (Sparkfun ESP32 Thing Plus) <br>
 
 # Wiring 
 The in code defined pin-connections for the APA102 LED's are as follows:
+
 | ESP32 | APA102 |
 |-----|----------|
 | 21  |clock (clk)|
