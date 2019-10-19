@@ -29,7 +29,7 @@ The in code defined pin-connections for the APA102 LED's are as follows:
 - `make` to build the port
 - connect ESP32 via USB
 - `make deploy` to flash the build to the chip
-- `make clean` can be used to remove the previous build if a mistake was made
+  - `make clean` can be used to remove the previous build if a mistake was made
 - use uPyCraft or possibly esptool [https://github.com/espressif/esptool](https://github.com/espressif/esptool)
 - execute code by pressing `button 0` while booting the chip
 
